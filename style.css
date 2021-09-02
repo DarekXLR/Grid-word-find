@@ -1,0 +1,7 @@
+body {
+  background-color: rgb(232, 235, 235);
+  font-size: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
